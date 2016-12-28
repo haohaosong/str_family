@@ -1,3 +1,5 @@
+#pragma once 
+
 size_t my_strncmp(const char* str1, const char* str2,size_t count)
 {
 	//需要少循环依次，是--count
